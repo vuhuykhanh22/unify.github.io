@@ -1,0 +1,23 @@
+$primary-color: #9b9b9b;
+$primary-font: Helvetica Neue;
+$secondary-font:'Open Sans', sans-serif;
+@mixin navbar-fixed(){
+	.navbar-fixed{
+    a{
+
+      &.active,&:hover{
+        color:#72c02c!important;
+      }
+  }
+
+    i{
+      color:#7dc945;
+    }
+  }
+  .color{
+    a{
+      color:white!important;
+    }
+  }
+}
+ 

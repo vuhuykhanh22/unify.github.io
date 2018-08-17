@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~4.0.0-alpha.6",
+    "modernizr": "~2.8.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.1",
+    "swiper": "^4.1.6",
+    "fancybox": "^3.2.5",
+    "font-awesome": "fontawesome#^5.0.8",
+    "tether": "^1.4.3",
+    "hover": "^2.1.1",
+    "anythingslider": "^1.9.7",
+    "jquery.scrollTo": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
